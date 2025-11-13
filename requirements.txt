@@ -1,0 +1,22 @@
+# General utilities
+requests
+beautifulsoup4
+
+# For jobsscrapper.py
+pandas
+lxml
+
+# For screenshots.py
+pyautogui
+pillow
+
+# For android_remote_view_and_record.py
+adbutils
+opencv-python
+numpy
+
+# For server.py
+flask
+
+# For topicgenerator.py
+openai
